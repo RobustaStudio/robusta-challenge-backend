@@ -1,4 +1,4 @@
-# Devbox Backend Compnent
+# DevOps Backend Component
 
 This application is built using Laravel framework which is based on PHP. To get the application running you need to ensure the following:
 
